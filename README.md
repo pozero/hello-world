@@ -1,2 +1,2 @@
-# hello-world
-a simple example
+# This is a repository for notes
+
